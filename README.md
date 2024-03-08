@@ -37,8 +37,27 @@
   - [비동기 처리(Promise, async ~ await, Ajax)](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/16%EC%9D%BC%EC%B0%A8(3h)%20-%20Promise%2C%20XMLHttpRequest%2C%20FileReader%2C%20%EB%93%9C%EB%9E%98%EA%B7%B8%EC%95%A4%EB%93%9C%EB%A1%AD)
 
 ## 2. 실무 프로젝트(P-1)
+- 리액트 기초[[강의자료](https://github.com/yonggyo1125/reactLecture)]
+- [01 리액트 시작](https://github.com/yonggyo1125/reactLecture/tree/master/0.%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%8B%9C%EC%9E%91)
+- [02 JSX](https://github.com/yonggyo1125/reactLecture/tree/master/1.%20JSX)
+- [03 컴포넌트](https://github.com/yonggyo1125/reactLecture/tree/master/2.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
+- [04 이벤트 핸들링](https://github.com/yonggyo1125/reactLecture/tree/master/3.%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%95%B8%EB%93%A4%EB%A7%81)
+- [05 ref: DOM에 이름 달기](https://github.com/yonggyo1125/reactLecture/tree/master/4.ref(DOM%EC%97%90%20%EC%9D%B4%EB%A6%84%20%EB%8B%AC%EA%B8%B0))
+- [06 컴포넌트 반복](https://github.com/yonggyo1125/reactLecture/tree/master/5.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%B0%98%EB%B3%B5)
+- [07 컴포넌트 라이프사이클 메서드](https://github.com/yonggyo1125/reactLecture/tree/master/6.%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%20%EB%A9%94%EC%84%9C%EB%93%9C)
+- [08 Hooks](https://github.com/yonggyo1125/reactLecture/tree/master/7.Hooks)
+- [09 컴포넌트 스타일링](https://github.com/yonggyo1125/reactLecture/tree/master/8.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81)
+- [10 컴포넌트 성능 최적화](https://github.com/yonggyo1125/reactLecture/tree/master/10.%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94)
+- [11 immer를 사용하여 더 쉽게 불변성 유지하기](https://github.com/yonggyo1125/reactLecture/tree/master/11.%20immer%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%8D%94%20%EC%89%BD%EA%B2%8C%20%EB%B6%88%EB%B3%80%EC%84%B1%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0)
+- [12 리액트 라우터로 SPA 개발하기](https://github.com/yonggyo1125/reactLecture/tree/master/12.%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%9D%BC%EC%9A%B0%ED%84%B0%EB%A1%9C%20SPA%20%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
+- [13 Context API](https://github.com/yonggyo1125/reactLecture/tree/master/14.%20Context%20API)
+- [14 리덕스 라이브러리 이해하기](https://github.com/yonggyo1125/reactLecture/tree/master/15.%20%EB%A6%AC%EB%8D%95%EC%8A%A4%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [15 리덕스를 사용하여 리액트 애플리케이션 상태 관리하기](https://github.com/yonggyo1125/reactLecture/tree/master/16.%20%EB%A6%AC%EB%8D%95%EC%8A%A4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
+- [16 코드스플리팅](https://github.com/yonggyo1125/reactLecture/tree/master/17.%20%EC%BD%94%EB%93%9C%20%EC%8A%A4%ED%94%8C%EB%A6%AC%ED%8C%85)
 
-
+- 실무 프로젝트 
+  - 공공 API를 이용한 웹앱 개발
+  - 뉴스 API를 이용한 뉴스 뷰어 만들기
 
 ## 3. 응용 SW 기초 기술활용(40시간)
 ## 4. 프로그래밍 언어활용(80시간)
