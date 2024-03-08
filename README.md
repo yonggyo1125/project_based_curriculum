@@ -6,7 +6,40 @@
 # 목차
 
 ## 1. 웹표준 기술(40시간)
+- 교재: HTML5 + CSS3 웹표준의 정석
+- HTML + CSS
+  - 01 HTML 기본 다지기
+  - 02 텍스트 관련 태그들
+  - 03 이미지와 하이퍼링크
+  - 04 폼 관련 태그들
+  - 05 CSS 기초
+  - 06 텍스트 관련 스타일 
+  - 07 색상과 배경을 위한 스타일 
+  - 08 CSS 박스 모델 
+  - 09 CSS 레이아웃 
+  - 10 HTML5와 시멘틱 태그
+  - 11 HTML5와 멜티미디어
+  - 12 다재다능한 CSS 선택자
+  - 13 CSS3와 애니메이션 
+  - 14 반응형 웹
+  - 15 미디어 쿼리
+  - 16 플렉스 박스 레이아웃 
+
+- [JavaScript](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84))
+  - [실습방법, 주석, 변수, 연산자](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/4%EC%9D%BC%EC%B0%A8(3h)%20-%20Javascript(%EC%8B%A4%EC%8A%B5%EB%B0%A9%EB%B2%95%2C%20%EC%A3%BC%EC%84%9D%2C%20%EB%B3%80%EC%88%98%2C%20%EC%97%B0%EC%82%B0%EC%9E%90))
+  - [객체 리터럴, 함수,메서드, 생성자](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/5%EC%9D%BC%EC%B0%A8(3h)%20-%20Javascript(%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4%2C%20%ED%95%A8%EC%88%98%2C%EB%A9%94%EC%84%9C%EB%93%9C%2C%20%EC%83%9D%EC%84%B1%EC%9E%90))
+  - [내장객체](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/6~7%EC%9D%BC%EC%B0%A8(6h)%20-%20%EB%82%B4%EC%9E%A5%EA%B0%9D%EC%B2%B4)
+  - [배열](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/8%EC%9D%BC%EC%B0%A8(3h)%20-%20%EB%B0%B0%EC%97%B4)
+  - [함수](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/9~10%EC%9D%BC%EC%B0%A8(6h)%20-%20%ED%95%A8%EC%88%98)
+  - [객체](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/11~12%EC%9D%BC%EC%B0%A8(6h)%20-%20%EA%B0%9D%EC%B2%B4) 
+  - [웹브라우저 객체](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/13~14%EC%9D%BC%EC%B0%A8(6h)%20-%20%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EA%B0%9D%EC%B2%B4)
+  - [이벤트 처리](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/15%EC%9D%BC%EC%B0%A8(3h)%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC) 
+  - [비동기 처리(Promise, async ~ await, Ajax)](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/16%EC%9D%BC%EC%B0%A8(3h)%20-%20Promise%2C%20XMLHttpRequest%2C%20FileReader%2C%20%EB%93%9C%EB%9E%98%EA%B7%B8%EC%95%A4%EB%93%9C%EB%A1%AD)
+
 ## 2. 실무 프로젝트(P-1)
+
+
+
 ## 3. 응용 SW 기초 기술활용(40시간)
 ## 4. 프로그래밍 언어활용(80시간)
 ## 5. 데이터베이스 구현
@@ -51,7 +84,7 @@
 ## 15. 실무 프로젝트(P-4) 
 - 스프링 프레임워크 활용 조별 프로젝트
 
-## 16. 리액트 네이이티브
+## 16. 리액트 네이티브
 ## 17. Python 기초 및 응용 
 ## 18. 실무 프로젝트(P-5) 
 - 기업 프로젝트 
