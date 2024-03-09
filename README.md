@@ -127,6 +127,7 @@
 ## 9. 웹 서버 프로그램 구현
 - 교재: JSP 2.3 웹프로그래밍 기초에서 중급까지 / 가메출판사 
 
+- [00 메이븐(Maven), 그래이들(Gradle) 사용법](https://github.com/yonggyo1125/lecture_spring/tree/master/2.%20%EB%A9%94%EC%9D%B4%EB%B8%90(Maven)%2C%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4(Gradle)%20%EC%82%AC%EC%9A%A9%EB%B2%95)
 - [01 개발환경 구축, 웹 기초, 서블릿(Servlet)](https://github.com/yonggyo1125/curriculum300H/tree/main/4.Servlet%20%26%20JSP1(21%EC%8B%9C%EA%B0%84)/1%EC%9D%BC%EC%B0%A8(3h)%20-%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%2C%20%EC%9B%B9%20%EA%B8%B0%EC%B4%88%2C%20%EC%84%9C%EB%B8%94%EB%A6%BF(Servlet))
 - [02 JSP의 특징, JSP의 페이지 처리과정, JSP의 생명주기, 스크립트 태그, 디렉티브 태그, 주석처리](https://github.com/yonggyo1125/curriculum300H/tree/main/4.Servlet%20%26%20JSP1(21%EC%8B%9C%EA%B0%84)/2%EC%9D%BC%EC%B0%A8(3h)%20-%20JSP%EC%9D%98%20%ED%8A%B9%EC%A7%95%2C%20JSP%EC%9D%98%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%B2%98%EB%A6%AC%EA%B3%BC%EC%A0%95%2C%20JSP%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%2C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%83%9C%EA%B7%B8%2C%20%EB%94%94%EB%A0%89%ED%8B%B0%EB%B8%8C%20%ED%83%9C%EA%B7%B8%2C%20%EC%A3%BC%EC%84%9D%EC%B2%98%EB%A6%AC)
 - [03 액션태그](https://github.com/yonggyo1125/curriculum300H/tree/main/4.Servlet%20%26%20JSP1(21%EC%8B%9C%EA%B0%84)/3%EC%9D%BC%EC%B0%A8(3h)%20-%20%EC%95%A1%EC%85%98%ED%83%9C%EA%B7%B8)
@@ -147,6 +148,28 @@
 - 스케줄 관리 웹앱 만들기 
 
 ## 11. 프레임워크 프로그래밍
+
+### 스프링 기초
+- 교재: 초보 웹 개발자를 위한 스프링5 프로그래밍 입문 / 가메출판사
+- [강의자료](https://github.com/yonggyo1125/lecture_spring)
+- [01 개발환경 구축](https://github.com/yonggyo1125/lecture_spring/tree/master/1.%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95)
+- [02 메이븐(Maven), 그래이들(Gradle) 사용법](https://github.com/yonggyo1125/lecture_spring/tree/master/2.%20%EB%A9%94%EC%9D%B4%EB%B8%90(Maven)%2C%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4(Gradle)%20%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [03 스프링 프로젝트 생성하기, 스프링 DI](https://github.com/yonggyo1125/lecture_spring/tree/master/3.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0%2C%20%EC%8A%A4%ED%94%84%EB%A7%81%20DI)
+- [04 의존성 자동 주입, 컴포넌트 스캔](https://github.com/yonggyo1125/lecture_spring/tree/master/4.%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%9E%90%EB%8F%99%20%EC%A3%BC%EC%9E%85%2C%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%8A%A4%EC%BA%94)
+- [05 빈 라이프 사이클](https://github.com/yonggyo1125/lecture_spring/tree/master/5.%20%EB%B9%88%20%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%82%AC%EC%9D%B4%ED%81%B4)
+- [06 AOP 프로그래밍](https://github.com/yonggyo1125/lecture_spring/tree/master/6.%20AOP%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+- [07 JdbcTemplate](https://github.com/yonggyo1125/lecture_spring/tree/master/7.%20JdbcTemplate)
+- [08 MyBatis와 스프링 연동](https://github.com/yonggyo1125/lecture_spring/tree/master/8.%20MyBatis%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%97%B0%EB%8F%99)
+- [09 스프링 웹 MVC - 설정, 프레임워크 동작 방식](https://github.com/yonggyo1125/lecture_spring/tree/master/9.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20MVC%20-%20%EC%84%A4%EC%A0%95%2C%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D)
+- [10 스프링 웹 MVC - 요청매핑, 커맨드 객체, 폼 태그, 모델](https://github.com/yonggyo1125/lecture_spring/tree/master/10.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20MVC%20-%20%EC%9A%94%EC%B2%AD%EB%A7%A4%ED%95%91%2C%20%EC%BB%A4%EB%A7%A8%EB%93%9C%20%EA%B0%9D%EC%B2%B4%2C%20%ED%8F%BC%20%ED%83%9C%EA%B7%B8%2C%20%EB%AA%A8%EB%8D%B8)
+- [11 스프링 웹 MVC - 메세지, 커맨드 객체 검증](https://github.com/yonggyo1125/lecture_spring/tree/master/11.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20MVC%20-%20%EB%A9%94%EC%84%B8%EC%A7%80%2C%20%EC%BB%A4%EB%A7%A8%EB%93%9C%20%EA%B0%9D%EC%B2%B4%20%EA%B2%80%EC%A6%9D)
+- [12 스프링 웹 MVC - 세션, 인터셉터, 쿠키](https://github.com/yonggyo1125/lecture_spring/tree/master/12.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20MVC%20-%20%EC%84%B8%EC%85%98%2C%20%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0%2C%20%EC%BF%A0%ED%82%A4)
+- [13 스프링 웹 MVC - 날짜 값 변환, @PathVariable, 컨트롤러 예외 처리](https://github.com/yonggyo1125/lecture_spring/tree/master/13.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20MVC%20-%20%EB%82%A0%EC%A7%9C%20%EA%B0%92%20%EB%B3%80%ED%99%98%2C%20%40PathVariable%2C%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC)
+- [14 타임리프](https://github.com/yonggyo1125/lecture_spring/tree/master/14.%20%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84)
+- [15 파일 업로드(MultipartFile)](https://github.com/yonggyo1125/lecture_spring/tree/master/15.%20%ED%8C%8C%EC%9D%BC%20%EC%97%85%EB%A1%9C%EB%93%9C(MultipartFile))
+- [16 프로필과 프로퍼티 파일](https://github.com/yonggyo1125/lecture_spring/tree/master/16.%20%ED%94%84%EB%A1%9C%ED%95%84%EA%B3%BC%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%ED%8C%8C%EC%9D%BC)
+- [17 JSON 응답과 요청 처리](https://github.com/yonggyo1125/lecture_spring/tree/master/17.%20JSON%20%EC%9D%91%EB%8B%B5%EA%B3%BC%20%EC%9A%94%EC%B2%AD%20%EC%B2%98%EB%A6%AC)
+
 
 ## 12. 애플리케이션 테스트 수행
 ## 13. 클라우드 응용 서비스 개발을 위한 AWS 이해 및 응용
