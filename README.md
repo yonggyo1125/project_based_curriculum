@@ -188,8 +188,12 @@
 - MockMvc 
 
 ## 13. 클라우드 응용 서비스 개발을 위한 AWS 이해 및 응용
+- [01 젠킨스, AWS 활용 CI/CD 구축](https://github.com/yonggyo1125/lecture_cicd)
+- 02 프로젝트 팀별 개발 환경 구축 
 
 ## 14. 요구사항 확인
+- 프로젝트 팀별 기획서 작성 
+
 ## 15. 실무 프로젝트(P-4) 
 - 스프링 프레임워크 활용 조별 프로젝트
 
@@ -197,3 +201,16 @@
 ## 17. Python 기초 및 응용 
 ## 18. 실무 프로젝트(P-5) 
 - 기업 프로젝트 
+
+## 19. 보충학습 - 스프링 클라우드
+- [강의자료](https://github.com/yonggyo1125/lecture_springcloud/tree/master)
+- [01 스프링 클라우드 소개](https://github.com/yonggyo1125/lecture_springcloud/tree/master/1.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%86%8C%EA%B0%9C)
+- [02 도커](https://github.com/yonggyo1125/lecture_springcloud/tree/master/2.%20%EB%8F%84%EC%BB%A4)
+- [03 스프링 클라우드 컨피그 서비](https://github.com/yonggyo1125/lecture_springcloud/tree/master/3.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%A8%ED%94%BC%EA%B7%B8%20%EC%84%9C%EB%B2%84)
+- [04 서비스 디스커버리](https://github.com/yonggyo1125/lecture_springcloud/tree/master/4.%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%94%94%EC%8A%A4%EC%BB%A4%EB%B2%84%EB%A6%AC)
+- [05 나쁜 상황에 대비한 스프링 클라우드와 Resillence4j를 사용한 회복성 패턴](https://github.com/yonggyo1125/lecture_springcloud/tree/master/5.%20%EB%82%98%EC%81%9C%20%EC%83%81%ED%99%A9%EC%97%90%20%EB%8C%80%EB%B9%84%ED%95%9C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%99%80%20Resillence4j%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%ED%9A%8C%EB%B3%B5%EC%84%B1%20%ED%8C%A8%ED%84%B4)
+- [06 스프링 클라우드 게이트웨이를 이용한 서비스 라우팅](https://github.com/yonggyo1125/lecture_springcloud/tree/master/6.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%9D%BC%EC%9A%B0%ED%8C%85)
+- [07 마이크로서비스 보안](https://github.com/yonggyo1125/lecture_springcloud/tree/master/7.%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%B3%B4%EC%95%88)
+- [08 스프링 클라우드 스트림을 사용한 이벤트 기반 아키텍쳐](https://github.com/yonggyo1125/lecture_springcloud/tree/master/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EA%B8%B0%EB%B0%98%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+- [09 스프링 클라우드 솔루스와 집킨을 이용한 분산 추적](https://github.com/yonggyo1125/lecture_springcloud/tree/master/9.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%86%94%EB%A3%A8%EC%8A%A4%EC%99%80%20%EC%A7%91%ED%82%A8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%B6%84%EC%82%B0%20%EC%B6%94%EC%A0%81)
+- [10 마이크로서비스 배포](https://github.com/yonggyo1125/lecture_springcloud/tree/master/10.%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%B0%B0%ED%8F%AC)
