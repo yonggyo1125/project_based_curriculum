@@ -170,9 +170,25 @@
 - [16 프로필과 프로퍼티 파일](https://github.com/yonggyo1125/lecture_spring/tree/master/16.%20%ED%94%84%EB%A1%9C%ED%95%84%EA%B3%BC%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%ED%8C%8C%EC%9D%BC)
 - [17 JSON 응답과 요청 처리](https://github.com/yonggyo1125/lecture_spring/tree/master/17.%20JSON%20%EC%9D%91%EB%8B%B5%EA%B3%BC%20%EC%9A%94%EC%B2%AD%20%EC%B2%98%EB%A6%AC)
 
+### 스프링 부트 
+- [01 개발환경 구축 & 스프링 부트 특징](https://github.com/yonggyo1125/curriculum300H/tree/main/6.Spring%20%26%20Spring%20Boot(75%EC%8B%9C%EA%B0%84)/17~20%EC%9D%BC%EC%B0%A8(21h)%20-%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
+- [02 Spring Data](https://github.com/yonggyo1125/curriculum300H/tree/main/6.Spring%20%26%20Spring%20Boot(75%EC%8B%9C%EA%B0%84)/17~20%EC%9D%BC%EC%B0%A8(21h)%20-%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/Spring%20Data%20JPA) 
+  - Spring Data JDBC
+  - Spring Data JPA
+  - Spring Data Redis
+- [03 Spring Security](https://drive.google.com/drive/folders/1xXW3ZiUpu7bi8f-F9bhamzi7GhdpCIAR?usp=drive_link)
+- [04 Spring Security + JWT로 인증 인가 구현하기](https://github.com/yonggyo1125/jwt_with_security)
 
 ## 12. 애플리케이션 테스트 수행
+
+- TDD(Test-Driven Development, 테스트 주도 개발)
+  - [JUnit5](https://github.com/yonggyo1125/lectureETC/tree/master/2.%20TDD(Test-Driven%20Development%2C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C)/1.%20JUnit5)
+  - [Mockito](https://github.com/yonggyo1125/lectureETC/tree/master/2.%20TDD(Test-Driven%20Development%2C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C)/2.%20Mockito)
+- Spring Test
+- MockMvc 
+
 ## 13. 클라우드 응용 서비스 개발을 위한 AWS 이해 및 응용
+
 ## 14. 요구사항 확인
 ## 15. 실무 프로젝트(P-4) 
 - 스프링 프레임워크 활용 조별 프로젝트
