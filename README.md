@@ -45,7 +45,8 @@
 ---
 
 ## 2. 실무 프로젝트(P-1)
-- 리액트 기초[[강의자료](https://github.com/yonggyo1125/reactLecture)]
+- 리액트 기초
+- [강의자료](https://github.com/yonggyo1125/reactLecture)
 - [강의동영상](https://drive.google.com/drive/folders/1KIBYhCXbz3IQLrVgSRtrXssV9qxTEoPk?usp=drive_link)
 - [01 리액트 시작](https://github.com/yonggyo1125/reactLecture/tree/master/0.%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%8B%9C%EC%9E%91)
 - [02 JSX](https://github.com/yonggyo1125/reactLecture/tree/master/1.%20JSX)
