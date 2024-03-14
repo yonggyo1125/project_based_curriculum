@@ -13,24 +13,26 @@
 - [강의동영상](https://drive.google.com/drive/folders/14iYeVfHWHTiAq3RvDlOkCYWWscArcFev?usp=drive_link)
 - 교재: HTML5 + CSS3 웹표준의 정석
 - HTML + CSS
-  - 01 HTML 기본 다지기
-  - 02 텍스트 관련 태그들
-  - 03 이미지와 하이퍼링크
-  - 04 폼 관련 태그들
-  - 05 CSS 기초
-  - 06 텍스트 관련 스타일 
-  - 07 색상과 배경을 위한 스타일 
-  - 08 CSS 박스 모델 
-  - 09 CSS 레이아웃 
-  - 10 HTML5와 시멘틱 태그
-  - 11 HTML5와 멜티미디어
-  - 12 다재다능한 CSS 선택자
-  - 13 CSS3와 애니메이션 
-  - 14 반응형 웹
-  - 15 미디어 쿼리
-  - 16 플렉스 박스 레이아웃 
+  - [강의자료](https://github.com/yonggyo1125/lecture_html_css)
+  - [01 HTML 기본 다지기](https://github.com/yonggyo1125/lecture_html_css/blob/master/01%20HTML%20%EA%B8%B0%EB%B3%B8%20%EB%8B%A4%EC%A7%80%EA%B8%B0)
+  - [02 텍스트 관련 태그들](https://github.com/yonggyo1125/lecture_html_css/tree/master/02%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A0%A8%20%ED%83%9C%EA%B7%B8%EB%93%A4)
+  - [03 이미지와 하이퍼링크](https://github.com/yonggyo1125/lecture_html_css/tree/master/03%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A7%81%ED%81%AC)
+  - [04 폼 관련 태그들](https://github.com/yonggyo1125/lecture_html_css/tree/master/04%20%ED%8F%BC%20%EA%B4%80%EB%A0%A8%20%ED%83%9C%EA%B7%B8%EB%93%A4)
+  - [05 CSS 기초](https://github.com/yonggyo1125/lecture_html_css/tree/master/05%20CSS%20%EA%B8%B0%EC%B4%88)
+  - [06 텍스트 관련 스타일](https://github.com/yonggyo1125/lecture_html_css/tree/master/06%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A0%A8%20%EC%8A%A4%ED%83%80%EC%9D%BC) 
+  - [07 색상과 배경을 위한 스타일](https://github.com/yonggyo1125/lecture_html_css/tree/master/07%20%EC%83%89%EC%83%81%EA%B3%BC%20%EB%B0%B0%EA%B2%BD%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%8A%A4%ED%83%80%EC%9D%BC) 
+  - [08 CSS 박스 모델](https://github.com/yonggyo1125/lecture_html_css/tree/master/08%20CSS%20%EB%B0%95%EC%8A%A4%20%EB%AA%A8%EB%8D%B8)
+  - [09 CSS 레이아웃](https://github.com/yonggyo1125/lecture_html_css/tree/master/09%20CSS%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83) 
+  - [10 HTML5와 시멘틱 태그](https://github.com/yonggyo1125/lecture_html_css/tree/master/10%20HTML5%EC%99%80%20%EC%8B%9C%EB%A9%98%ED%8B%B1%20%ED%83%9C%EA%B7%B8)
+  - [11 HTML5와 멜티미디어](https://github.com/yonggyo1125/lecture_html_css/tree/master/11%20HTML5%EC%99%80%20%EB%A9%9C%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4)
+  - [12 다재다능한 CSS 선택자](https://github.com/yonggyo1125/lecture_html_css/tree/master/12%20%EB%8B%A4%EC%9E%AC%EB%8B%A4%EB%8A%A5%ED%95%9C%20CSS%20%EC%84%A0%ED%83%9D%EC%9E%90)
+  - [13 CSS3와 애니메이션](https://github.com/yonggyo1125/lecture_html_css/tree/master/13%20CSS3%EC%99%80%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98) 
+  - [14 반응형 웹](https://github.com/yonggyo1125/lecture_html_css/tree/master/14%20%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9B%B9)
+  - [15 미디어 쿼리](https://github.com/yonggyo1125/lecture_html_css/tree/master/15%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%BF%BC%EB%A6%AC)
+  - [16 플렉스 박스 레이아웃](https://github.com/yonggyo1125/lecture_html_css/tree/master/16%20%ED%94%8C%EB%A0%89%EC%8A%A4%20%EB%B0%95%EC%8A%A4%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83) 
 
-- [JavaScript](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84))
+- JavaScript
+  - [강의자료](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84))
   - [실습방법, 주석, 변수, 연산자](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/4%EC%9D%BC%EC%B0%A8(3h)%20-%20Javascript(%EC%8B%A4%EC%8A%B5%EB%B0%A9%EB%B2%95%2C%20%EC%A3%BC%EC%84%9D%2C%20%EB%B3%80%EC%88%98%2C%20%EC%97%B0%EC%82%B0%EC%9E%90))
   - [객체 리터럴, 함수,메서드, 생성자](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/5%EC%9D%BC%EC%B0%A8(3h)%20-%20Javascript(%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4%2C%20%ED%95%A8%EC%88%98%2C%EB%A9%94%EC%84%9C%EB%93%9C%2C%20%EC%83%9D%EC%84%B1%EC%9E%90))
   - [내장객체](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/6~7%EC%9D%BC%EC%B0%A8(6h)%20-%20%EB%82%B4%EC%9E%A5%EA%B0%9D%EC%B2%B4)
