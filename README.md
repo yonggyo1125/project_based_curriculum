@@ -101,9 +101,9 @@
 ## 5. 데이터베이스 구현
 - 교재: 오라클로 배우는 데이터베이스 입문
 - [강의동영상](https://drive.google.com/drive/folders/18b3KaTmI2ZUuGRmOfMeH1FE_MKi7STvZ?usp=drive_link)
-- [01 데이터 베이스]()
-- [02 관계형 데이터베이스와 오라클 데이터베이스]()
-- [03 오라클 데이터베이스와 도구 프로그램 설치]()
+- [01 데이터 베이스](https://github.com/yonggyo1125/curriculumOracle/tree/master/01%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
+- [02 관계형 데이터베이스와 오라클 데이터베이스](https://github.com/yonggyo1125/curriculumOracle/tree/master/02%20%EA%B4%80%EA%B3%84%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80%20%EC%98%A4%EB%9D%BC%ED%81%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
+- [03 오라클 데이터베이스와 도구 프로그램 설치](https://github.com/yonggyo1125/curriculumOracle/tree/master/03%20%EC%98%A4%EB%9D%BC%ED%81%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80%20%EB%8F%84%EA%B5%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%84%A4%EC%B9%98)
 - 평가 진행 
 --- 
 
@@ -129,10 +129,10 @@
 - 교재: 오라클로 배우는 데이터베이스 입문
 - [강의동영상](https://drive.google.com/drive/folders/1-LzGrbMbCYha_3rG8KfWT2tmj6MsbGHm?usp=drive_link)
 - [15 사용자 권한, 롤 관리](https://github.com/yonggyo1125/curriculumOracle/tree/master/15%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B6%8C%ED%95%9C%2C%20%EB%A1%A4%20%EA%B4%80%EB%A6%AC)
-- [16 PL/SQL 기초]()
-- [17 레코드와 컬렉션]()
-- [18 커서와 예외 처리]()
-- [19 저장 서브프로그램]()
+- [16 PL/SQL 기초](https://github.com/yonggyo1125/curriculumOracle/tree/master/16%20PL_SQL%20%EA%B8%B0%EC%B4%88)
+- [17 레코드와 컬렉션](https://github.com/yonggyo1125/curriculumOracle/tree/master/17%20%EB%A0%88%EC%BD%94%EB%93%9C%EC%99%80%20%EC%BB%AC%EB%A0%89%EC%85%98)
+- [18 커서와 예외 처리](https://github.com/yonggyo1125/curriculumOracle/tree/master/18%20%EC%BB%A4%EC%84%9C%EC%99%80%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC)
+- [19 저장 서브프로그램](https://github.com/yonggyo1125/curriculumOracle/tree/master/19%20%EC%A0%80%EC%9E%A5%20%EC%84%9C%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 - 평가 진행
 ---
 
