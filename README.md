@@ -227,24 +227,24 @@
 
 ## 16. 리액트 네이티브
 - 교재: 리액트 네이티브를 다루는 기술 / 길벗
-- [강의자료](https://github.com/yonggyo1125/lecture_python)
+- [강의자료](https://github.com/yonggyo1125/lecture_reactnative)
 - [강의동영상](https://drive.google.com/drive/folders/1t7qtUXrYG_7osBUPb7MnK6dAnv_Vp0el?usp=drive_link)
-- 01 리액트 네이티브 첫걸음
-- 02 컴포넌트
-- 03 할일 목록 만들기 I
-- 04 할일 목록 만들기 II
-- 05 리액트 내비게이션으로 여러 화면 관리하기
-- 06 다이어리 앱 만들기 I
-- 07 다이어리 앱 만들기 II
-- 08 Firebase로 사진 공유 앱 만들기 I
-- 09 Firebase로 사진 공유 앱 만들기 II
-- 10 네이티브 모듈 만들기
-- 11 네이티브 UI 컴포넌트 사용하기
-- 12 리액트 네이티브 프로젝트에서 타입스크립트 사용하기
-- 13 라이브러리를 사용한 상태 관리 
-- 14 Strapi로 REST API 서버 빠르게 구축하기
-- 15 리액트 쿼리를 사용한 API 상태 관리
-- 16 앱 스토어와 구글 플레이에 리액트 네이티브 앱 등록하기
+- [01 리액트 네이티브 첫걸음](https://github.com/yonggyo1125/lecture_reactnative/tree/master/01%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%B2%AB%EA%B1%B8%EC%9D%8C)
+- [02 컴포넌트](https://github.com/yonggyo1125/lecture_reactnative/tree/master/02%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
+- [03 할일 목록 만들기 I](https://github.com/yonggyo1125/lecture_reactnative/tree/master/03%20%ED%95%A0%EC%9D%BC%20%EB%AA%A9%EB%A1%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20I)
+- [04 할일 목록 만들기 II](https://github.com/yonggyo1125/lecture_reactnative/tree/master/04%20%ED%95%A0%EC%9D%BC%20%EB%AA%A9%EB%A1%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20II)
+- [05 리액트 내비게이션으로 여러 화면 관리하기](https://github.com/yonggyo1125/lecture_reactnative/tree/master/05%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%82%B4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98%EC%9C%BC%EB%A1%9C%20%EC%97%AC%EB%9F%AC%20%ED%99%94%EB%A9%B4%20%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
+- [06 다이어리 앱 만들기 I](https://github.com/yonggyo1125/lecture_reactnative/tree/master/06%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC%20%EC%95%B1%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20I)
+- [07 다이어리 앱 만들기 II](https://github.com/yonggyo1125/lecture_reactnative/tree/master/07%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC%20%EC%95%B1%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20II)
+- [08 Firebase로 사진 공유 앱 만들기 I](https://github.com/yonggyo1125/lecture_reactnative/tree/master/08%20Firebase%EB%A1%9C%20%EC%82%AC%EC%A7%84%20%EA%B3%B5%EC%9C%A0%20%EC%95%B1%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20I)
+- [09 Firebase로 사진 공유 앱 만들기 II](https://github.com/yonggyo1125/lecture_reactnative/tree/master/09%20Firebase%EB%A1%9C%20%EC%82%AC%EC%A7%84%20%EA%B3%B5%EC%9C%A0%20%EC%95%B1%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20II)
+- [10 네이티브 모듈 만들기](https://github.com/yonggyo1125/lecture_reactnative/tree/master/10%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EB%AA%A8%EB%93%88%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [11 네이티브 UI 컴포넌트 사용하기](https://github.com/yonggyo1125/lecture_reactnative/tree/master/11%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20UI%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [12 리액트 네이티브 프로젝트에서 타입스크립트 사용하기](https://github.com/yonggyo1125/lecture_reactnative/tree/master/12%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [13 라이브러리를 사용한 상태 관리](https://github.com/yonggyo1125/lecture_reactnative/tree/master/13%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC) 
+- [14 Strapi로 REST API 서버 빠르게 구축하기](https://github.com/yonggyo1125/lecture_reactnative/tree/master/14%20Strapi%EB%A1%9C%20REST%20API%20%EC%84%9C%EB%B2%84%20%EB%B9%A0%EB%A5%B4%EA%B2%8C%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
+- [15 리액트 쿼리를 사용한 API 상태 관리](https://github.com/yonggyo1125/lecture_reactnative/tree/master/15%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20API%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC)
+- [16 앱 스토어와 구글 플레이에 리액트 네이티브 앱 등록하기](https://github.com/yonggyo1125/lecture_reactnative/tree/master/16%20%EC%95%B1%20%EC%8A%A4%ED%86%A0%EC%96%B4%EC%99%80%20%EA%B5%AC%EA%B8%80%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%90%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%95%B1%20%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0)
 
 ## 17. Python 기초 및 응용 
 교재: Do it! 점프투 파이썬 / 이지스퍼블리싱
