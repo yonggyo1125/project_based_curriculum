@@ -137,7 +137,9 @@
 ---
 
 ## 8. 실무 프로젝트(P-2)
-- 도서 관리 프로그램 만들기
+- 묵찌빠 게임만들기
+- 학생관리 프로그램
+- [포트폴리오 자료](https://github.com/yonggyo1125/project502_13_2)
 - [강의동영상](https://drive.google.com/drive/folders/1LUu50FUgFTq0Vql_AA5uq7fRnnM3QISh?usp=drive_link)
 
 ## 9. 웹 서버 프로그램 구현
