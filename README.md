@@ -138,6 +138,7 @@
 
 ## 8. 실무 프로젝트(P-2)
 - 묵찌빠 게임만들기
+    - [소켓서버 자료](https://github.com/yonggyo1125/class502_13/tree/master/8.%20%EC%8B%A4%EB%AC%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(P-2)/socketserver)
 - 학생관리 프로그램
 - [포트폴리오 자료](https://github.com/yonggyo1125/project502_13_2)
 - [강의동영상](https://drive.google.com/drive/folders/1LUu50FUgFTq0Vql_AA5uq7fRnnM3QISh?usp=drive_link)
