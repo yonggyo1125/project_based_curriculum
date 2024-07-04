@@ -255,10 +255,10 @@
 - [강의자료](https://github.com/yonggyo1125/lecture_python)
 - [강의동영상](https://drive.google.com/drive/folders/1wimAkHy6V9Njcf8hy-IcrK3qjQQ9ki0O?usp=drive_link)
 - 01 파이썬이란 무엇인가?
-- 02 파이썬 프로그래밍의 기초, 자료형
-- 03 프로그램의 구조를 쌓다는다! 제어문
-- 04 파이썬의 입출력
-- 05 파이썬 날개 달기
+- [02 파이썬 프로그래밍의 기초, 자료형](https://github.com/yonggyo1125/lecture_python/tree/master/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88/2.%20%EC%9E%90%EB%A3%8C%ED%98%95)
+- [03 프로그램의 구조를 쌓다는다! 제어문](https://github.com/yonggyo1125/lecture_python/tree/master/2.%20%EC%A0%9C%EC%96%B4%EB%AC%B8)
+- [04 파이썬의 입출력](https://github.com/yonggyo1125/lecture_python/tree/master/3.%20%EC%9E%85%EC%B6%9C%EB%A0%A5)
+- [05 파이썬 날개 달기](https://github.com/yonggyo1125/lecture_python/tree/master/4.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0)
 - 06 정규표현식
 
 ## 18. 실무 프로젝트(P-5) 
