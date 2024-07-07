@@ -166,8 +166,8 @@
 
 ## 10. 실무 프로젝트(P-3)
 - [강의동영상](https://drive.google.com/drive/folders/16wGAnbPhXx3dIem8jveJit1nV1xtCOdE?usp=drive_link)
-- [포켓몬 도감](https://github.com/yonggyo1125/project501_13_jsp/tree/pokemon)
-- [포트폴리오 자료](https://github.com/yonggyo1125/project501_13_jsp)
+- [포켓몬 도감](https://github.com/yonggyo1125/project502_13_jsp/tree/pokemon)
+- [포트폴리오 자료](https://github.com/yonggyo1125/project502_13_jsp)
 
 ## 11. 프레임워크 프로그래밍
 
