@@ -259,7 +259,7 @@
 - [03 프로그램의 구조를 쌓다는다! 제어문](https://github.com/yonggyo1125/lecture_python/tree/master/2.%20%EC%A0%9C%EC%96%B4%EB%AC%B8)
 - [04 파이썬의 입출력](https://github.com/yonggyo1125/lecture_python/tree/master/3.%20%EC%9E%85%EC%B6%9C%EB%A0%A5)
 - [05 파이썬 날개 달기](https://github.com/yonggyo1125/lecture_python/tree/master/4.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0)
-- 06 정규표현식
+- [06 정규표현식](https://github.com/yonggyo1125/lecture_python/tree/master/6.%20%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D)
 
 ## 18. 실무 프로젝트(P-5) 
 - 기업 프로젝트 
