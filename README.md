@@ -226,6 +226,8 @@
 ## 15. 실무 프로젝트(P-4) 
 - 스프링 프레임워크 활용 조별 프로젝트
 - [포트폴리오 기능 구현 강의](https://github.com/yonggyo1125/lecture_portfolio)
+- [1,4조 지원](https://github.com/yonggyo1125/teamproject502_1_4)
+- [2,3조 지원](https://github.com/yonggyo1125/teamproject502_2_3)
 - [강의동영상](https://drive.google.com/drive/folders/1ghHP8jyln5-R97wg3zAIkXskMuSZyQtm?usp=drive_link)
 
 
