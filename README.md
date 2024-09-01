@@ -202,6 +202,7 @@
   - Spring Data Redis
 - [03 Spring Security](https://drive.google.com/drive/folders/1xXW3ZiUpu7bi8f-F9bhamzi7GhdpCIAR?usp=drive_link)
 - [04 Spring Security + JWT로 인증 인가 구현하기](https://github.com/yonggyo1125/jwt_with_security)
+- [05 SWAGGER API 적용하기](https://github.com/yonggyo1125/lectureETC/blob/master/SWAGGER-API.md)
 - 평가 진행
 
 ## 12. 애플리케이션 테스트 수행
